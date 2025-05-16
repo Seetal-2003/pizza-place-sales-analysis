@@ -59,27 +59,19 @@ Dashboard 1:
 Dashboard 2:
 ![Dashboard 2](Dashboard_2.png)
 
-📥 Download Dashboard File:
-
-[Excel Dashboard File](pizza place analysis dashboard.xlsx)
 
 📊 Dashboard Insights:
 
 🔹 Overall Performance:
-        •     Total Revenue: 
-	            ₹8,17,860.05
-        •	    Total Pizzas Sold: 
-	                     49,574
-        •	    Total Orders:  
-	                      21,350
-        •	    Average Order Value: 
-	                          ₹38.31
-        •           Average Pizzas per Order: 
-	                              2.32
+        •     Total Revenue:  ₹8,17,860.05
+                •	    Total Pizzas Sold:    49,574
+                           •	    Total Orders:    21,350
+                                  •	    Average Order Value:    ₹38.31
+                                       •           Average Pizzas per Order:     2.32
       
 🔹 Customer Behaviour:
         •	    Orders peak during 12 PM–1 PM and 4 PM–7 PM
-        •	    The pizza place gets a consistent number of daily customers throughout the period
+                 •	    The pizza place gets a consistent number of daily customers throughout the period
       
 🔹 Pizza Category & Size:
         •	    Top Category: Classic (14,579 pizzas sold)
@@ -110,8 +102,8 @@ Dashboard 2:
 
 This Excel dashboard effectively transforms pizza sales data into easy-to-understand visuals and insights. It helps the business:
       1.	    Focus on top-selling pizzas and high-performing categories
-      2.              Improve marketing and promotions for underperforming items
-      3.                Plan inventory based on demand for certain sizes
-      4.	          Allocate staff efficiently during peak hours
+             2.              Improve marketing and promotions for underperforming items
+                     3.                Plan inventory based on demand for certain sizes
+                             4.	          Allocate staff efficiently during peak hours
 By using Excel’s powerful features, this project shows how even simple tools can deliver meaningful business intelligence.
 
