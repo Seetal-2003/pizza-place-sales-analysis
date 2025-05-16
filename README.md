@@ -35,6 +35,7 @@ This project uses four datasets for pizza sales analysis:
 🛠️ Tools and Techniques Used:
 
 •	Tool: Microsoft Excel
+
 •	Techniques Used:
 	-Pivot Tables and Pivot Charts
 	-Slicers (for month and date filtering)
@@ -65,47 +66,47 @@ Dashboard 2:
 📊 Dashboard Insights:
 
 🔹 Overall Performance:
-      •	    Total Revenue: ₹8,17,860.05
-      •	    Total Pizzas Sold: 49,574
-      •	    Total Orders: 21,350
-      •	    Average Order Value: ₹38.31
-      •     Average Pizzas per Order: 2.32
+        •	    Total Revenue: ₹8,17,860.05
+        •	    Total Pizzas Sold: 49,574
+        •	    Total Orders: 21,350
+        •	    Average Order Value: ₹38.31
+        •     Average Pizzas per Order: 2.32
       
 🔹 Customer Behaviour:
-      •	    Orders peak during 12 PM–1 PM and 4 PM–7 PM
-      •	    The pizza place gets a consistent number of daily customers throughout the period
+        •	    Orders peak during 12 PM–1 PM and 4 PM–7 PM
+        •	    The pizza place gets a consistent number of daily customers throughout the period
       
 🔹 Pizza Category & Size:
-      •	    Top Category: Classic (14,579 pizzas sold)
-      •	    Top Size: Large (L) – accounts for 45.89% of total sales
+        •	    Top Category: Classic (14,579 pizzas sold)
+        •	    Top Size: Large (L) – accounts for 45.89% of total sales
       
 🔹 Top Performing Pizzas:
       •	    By Quantity Sold:
-	-    The Classic Deluxe Pizza
-	-    The Barbecue Chicken Pizza
-	-    The Hawaiian Pizza
-	-    The Pepperoni Pizza
-	-    The Thai Chicken Pizza
+	  -    The Classic Deluxe Pizza
+	  -    The Barbecue Chicken Pizza
+	  -    The Hawaiian Pizza
+	  -    The Pepperoni Pizza
+	  -    The Thai Chicken Pizza
       •	    By Revenue Generated:
-	-    The Thai Chicken Pizza (₹43,843.25)
-	-    The Barbecue Chicken Pizza
-	-    The California Chicken Pizza
-	-    The Classic Deluxe Pizza
-	-    The Spicy Italian Pizza
+	  -    The Thai Chicken Pizza (₹43,843.25)
+	  -    The Barbecue Chicken Pizza
+	  -    The California Chicken Pizza
+	  -    The Classic Deluxe Pizza
+	  -    The Spicy Italian Pizza
  
 🔹 Low Performing Pizzas:
       •	    Least Sold:
-	-    The Brie Carre Pizza
-	-    The Spinach Supreme Pizza
-        -    The Calabrese Pizza
-	-    The Chicken Pesto Pizza
+	  -    The Brie Carre Pizza
+	  -    The Spinach Supreme Pizza
+          -    The Calabrese Pizza
+	  -    The Chicken Pesto Pizza
 
 ✅ Conclusion:
 
 This Excel dashboard effectively transforms pizza sales data into easy-to-understand visuals and insights. It helps the business:
-      1.	      Focus on top-selling pizzas and high-performing categories
+      1.	    Focus on top-selling pizzas and high-performing categories
       2.              Improve marketing and promotions for underperforming items
-      3.              Plan inventory based on demand for certain sizes
-      4.	      Allocate staff efficiently during peak hours
+      3.                Plan inventory based on demand for certain sizes
+      4.	          Allocate staff efficiently during peak hours
 By using Excel’s powerful features, this project shows how even simple tools can deliver meaningful business intelligence.
 
