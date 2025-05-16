@@ -5,11 +5,11 @@ This project features a visually interactive Pizza Sales Analysis Dashboard buil
 
 🎯 Objective:
 The main goal of this project is to analyze pizza sales data to understand how the business is performing. Specifically, it helps:
-     -  Track total revenue, orders, and pizzas sold
-     -	 Identify the most popular pizza categories and sizes
-     -	 Discover the busiest times of the day for orders
-     -	 Spot best and worst performing pizzas
-     -	 Understand customer ordering habits like average order size and value
+     1.   Track total revenue, orders, and pizzas sold
+     2.	  Identify the most popular pizza categories and sizes
+     3.	  Discover the busiest times of the day for orders
+     4.	  Spot best and worst performing pizzas
+     5.	  Understand customer ordering habits like average order size and value
 These insights can be used to improve menu planning, marketing strategies, staffing during peak hours, and overall business efficiency.
 
 📥 Datasets:
