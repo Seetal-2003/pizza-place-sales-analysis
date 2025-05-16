@@ -37,11 +37,11 @@ This project uses four datasets for pizza sales analysis:
 •	Tool: Microsoft Excel
 
 •	Techniques Used:
-	-Pivot Tables and Pivot Charts
-	-Slicers (for month and date filtering)
-	-Pie Charts, Line Charts, Bar Charts
-	-Calculated Fields for KPIs like Avg Order Value and Avg Pizzas per Order
-	-Clean formatting and layout for a user-friendly dashboard
+	  -Pivot Tables and Pivot Charts
+	  -Slicers (for month and date filtering)
+	  -Pie Charts, Line Charts, Bar Charts
+	  -Calculated Fields for KPIs like Avg Order Value and Avg Pizzas per Order
+	  -Clean formatting and layout for a user-friendly dashboard
 
 🔄 Process Followed:
 
@@ -66,11 +66,16 @@ Dashboard 2:
 📊 Dashboard Insights:
 
 🔹 Overall Performance:
-        •	    Total Revenue: ₹8,17,860.05
-        •	    Total Pizzas Sold: 49,574
-        •	    Total Orders: 21,350
-        •	    Average Order Value: ₹38.31
-        •     Average Pizzas per Order: 2.32
+        •     Total Revenue: 
+	            ₹8,17,860.05
+        •	    Total Pizzas Sold: 
+	                     49,574
+        •	    Total Orders:  
+	                      21,350
+        •	    Average Order Value: 
+	                          ₹38.31
+        •           Average Pizzas per Order: 
+	                              2.32
       
 🔹 Customer Behaviour:
         •	    Orders peak during 12 PM–1 PM and 4 PM–7 PM
