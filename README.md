@@ -41,8 +41,8 @@ This project uses four datasets for pizza sales analysis:
 1.	Data Preparation: Cleaned the raw pizza sales data to remove duplicates and format columns properly.
 2.	Metric Calculation: Created key metrics like Total Revenue, Total Orders, Avg Order Value, etc.
 3.	Visualization: Built two Excel dashboards:
-o	Overview Dashboard for high-level insights
-o	Detailed Dashboard to analyze individual pizza performance
+-	Overview Dashboard for high-level insights
+-	Detailed Dashboard to analyze individual pizza performance
 4.	Added Filters: Included slicers to filter data by month.
 
 📊 Dashboard Previews
@@ -56,42 +56,46 @@ Dashboard 2:
 
 📊 Dashboard Insights:
 🔹 Overall Performance:
-      •	Total Revenue: ₹8,17,860.05
-      •	Total Pizzas Sold: 49,574
-      •	Total Orders: 21,350
-      •	Average Order Value: ₹38.31
-      •	Average Pizzas per Order: 2.32
+      •	    Total Revenue: ₹8,17,860.05
+      •	    Total Pizzas Sold: 49,574
+      •	    Total Orders: 21,350
+      •	    Average Order Value: ₹38.31
+      •     Average Pizzas per Order: 2.32
+      
 🔹 Customer Behaviour:
-      •	Orders peak during 12 PM–1 PM and 4 PM–7 PM
-      •	The pizza place gets a consistent number of daily customers throughout the period
+      •	    Orders peak during 12 PM–1 PM and 4 PM–7 PM
+      •	    The pizza place gets a consistent number of daily customers throughout the period
+      
 🔹 Pizza Category & Size:
-      •	Top Category: Classic (14,579 pizzas sold)
-      •	Top Size: Large (L) – accounts for 45.89% of total sales
+      •	    Top Category: Classic (14,579 pizzas sold)
+      •	    Top Size: Large (L) – accounts for 45.89% of total sales
+      
 🔹 Top Performing Pizzas:
-      •	By Quantity Sold:
-	-The Classic Deluxe Pizza
-	-The Barbecue Chicken Pizza
-	-The Hawaiian Pizza
-	-The Pepperoni Pizza
-	-The Thai Chicken Pizza
-      •	By Revenue Generated:
-	-The Thai Chicken Pizza (₹43,843.25)
-	-The Barbecue Chicken Pizza
-	-The California Chicken Pizza
-	-The Classic Deluxe Pizza
-	-The Spicy Italian Pizza
+      •	    By Quantity Sold:
+	-    The Classic Deluxe Pizza
+	-    The Barbecue Chicken Pizza
+	-    The Hawaiian Pizza
+	-    The Pepperoni Pizza
+	-    The Thai Chicken Pizza
+      •	    By Revenue Generated:
+	-    The Thai Chicken Pizza (₹43,843.25)
+	-    The Barbecue Chicken Pizza
+	-    The California Chicken Pizza
+	-    The Classic Deluxe Pizza
+	-    The Spicy Italian Pizza
+ 
 🔹 Low Performing Pizzas:
-      •	Least Sold:
-	-The Brie Carre Pizza
-	-The Spinach Supreme Pizza
-        -The Calabrese Pizza
-	-The Chicken Pesto Pizza
+      •	    Least Sold:
+	-    The Brie Carre Pizza
+	-    The Spinach Supreme Pizza
+        -    The Calabrese Pizza
+	-    The Chicken Pesto Pizza
 
 ✅ Conclusion:
 This Excel dashboard effectively transforms pizza sales data into easy-to-understand visuals and insights. It helps the business:
-      •	Focus on top-selling pizzas and high-performing categories
-      •	Improve marketing and promotions for underperforming items
-      •	Plan inventory based on demand for certain sizes
-      •	Allocate staff efficiently during peak hours
+      •	    Focus on top-selling pizzas and high-performing categories
+      •	    Improve marketing and promotions for underperforming items
+      •	    Plan inventory based on demand for certain sizes
+      •	    Allocate staff efficiently during peak hours
 By using Excel’s powerful features, this project shows how even simple tools can deliver meaningful business intelligence.
 
