@@ -94,8 +94,8 @@ Dashboard 2:
 ✅ Conclusion:
 This Excel dashboard effectively transforms pizza sales data into easy-to-understand visuals and insights. It helps the business:
       •	    Focus on top-selling pizzas and high-performing categories
-      •	    Improve marketing and promotions for underperforming items
-      •	    Plan inventory based on demand for certain sizes
-      •	    Allocate staff efficiently during peak hours
+      •	      Improve marketing and promotions for underperforming items
+      •	        Plan inventory based on demand for certain sizes
+      •	          Allocate staff efficiently during peak hours
 By using Excel’s powerful features, this project shows how even simple tools can deliver meaningful business intelligence.
 
