@@ -1,4 +1,4 @@
-🍕 Pizza Place Sales Analysis Dashboard
+🍕  Retail Sales Insights Dashboard – Pizza Chain Case Study (Excel)
 
 📌 Project Overview:
 
